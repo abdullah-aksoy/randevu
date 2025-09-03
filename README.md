@@ -33,8 +33,6 @@ Kurulum sonrası varsayılan yönetici hesabı:
 - **Kullanıcı Adı:** admin
 - **Şifre:** admin123
 
-> Güvenlik için ilk girişten sonra şifreyi değiştirmeniz önerilir.
-
 ## Kullanım
 
 - Ana sayfadan hizmet ve tarih seçerek randevu alabilirsiniz.
