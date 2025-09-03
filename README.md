@@ -45,5 +45,3 @@ Kurulum sonrası varsayılan yönetici hesabı:
 Bu proje açık kaynaklıdır. Lisans belirtilmemiştir, kullanım ve paylaşım için sahibiyle iletişime geçiniz.
 
 ---
-
-Daha fazla bilgi ve katkı için [proje sayfasını ziyaret edin](https://github.com/abdullah-aksoy/randevu).
